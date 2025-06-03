@@ -37,7 +37,7 @@ CryptoBuddy is a beginner-friendly, rule-based chatbot that gives crypto investm
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/cryptobuddy-chatbot.git
+   git clone https://github.com/Aro-geo/cryptobuddy-chatbot
    cd cryptobuddy-chatbot
 ---
 ## 📸 Screenshots
